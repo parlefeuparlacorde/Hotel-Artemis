@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: 94e132848263122449290abafadeabf9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: W_ATT_MagpulBUIS_Front_Up_LOD_HIGH
+    100004: W_ATT_MagpulBUIS_Rear_Up_LOD_HIGH
+    100006: W_SMG_MP7_T1_Ammo_LOD_HIGH
+    100008: W_SMG_MP7_T1_Bolt_LOD_HIGH
+    100010: W_SMG_MP7_T1_BottomRail_LOD_HIGH
+    100012: W_SMG_MP7_T1_ChargingHandle_LOD_HIGH
+    100014: W_SMG_MP7_T1_Flashhider_LOD_HIGH
+    100016: W_SMG_MP7_T1_Follower_LOD_HIGH
+    100018: W_SMG_MP7_T1_LOD_HIGH
+    100020: W_SMG_MP7_T1_Magazine_LOD_HIGH
+    100022: W_SMG_MP7_T1_SideRail_LOD_HIGH
+    400000: //RootNode
+    400002: W_ATT_MagpulBUIS_Front_Up_LOD_HIGH
+    400004: W_ATT_MagpulBUIS_Rear_Up_LOD_HIGH
+    400006: W_SMG_MP7_T1_Ammo_LOD_HIGH
+    400008: W_SMG_MP7_T1_Bolt_LOD_HIGH
+    400010: W_SMG_MP7_T1_BottomRail_LOD_HIGH
+    400012: W_SMG_MP7_T1_ChargingHandle_LOD_HIGH
+    400014: W_SMG_MP7_T1_Flashhider_LOD_HIGH
+    400016: W_SMG_MP7_T1_Follower_LOD_HIGH
+    400018: W_SMG_MP7_T1_LOD_HIGH
+    400020: W_SMG_MP7_T1_Magazine_LOD_HIGH
+    400022: W_SMG_MP7_T1_SideRail_LOD_HIGH
+    2100000: W_ATT_MagpulBUIS_Front_Up_LOD_HIGHMat
+    2100002: W_ATT_MagpulBUIS_Rear_Up_LOD_HIGHMat
+    2100004: W_SMG_MP7_T1_Ammo_LOD_HIGHMat
+    2100006: W_SMG_MP7_T1_Bolt_LOD_HIGHMat
+    2100008: W_SMG_MP7_T1_BottomRail_LOD_HIGHMat
+    2100010: W_SMG_MP7_T1_ChargingHandle_LOD_HIGHMat
+    2100012: W_SMG_MP7_T1_Flashhider_LOD_HIGHMat
+    2100014: W_SMG_MP7_T1_Follower_LOD_HIGHMat
+    2100016: W_SMG_MP7_T1_LOD_HIGHMat
+    2100018: W_SMG_MP7_T1_Magazine_LOD_HIGHMat
+    2100020: W_SMG_MP7_T1_SideRail_LOD_HIGHMat
+    2300000: W_ATT_MagpulBUIS_Front_Up_LOD_HIGH
+    2300002: W_ATT_MagpulBUIS_Rear_Up_LOD_HIGH
+    2300004: W_SMG_MP7_T1_Ammo_LOD_HIGH
+    2300006: W_SMG_MP7_T1_Bolt_LOD_HIGH
+    2300008: W_SMG_MP7_T1_BottomRail_LOD_HIGH
+    2300010: W_SMG_MP7_T1_ChargingHandle_LOD_HIGH
+    2300012: W_SMG_MP7_T1_Flashhider_LOD_HIGH
+    2300014: W_SMG_MP7_T1_Follower_LOD_HIGH
+    2300016: W_SMG_MP7_T1_LOD_HIGH
+    2300018: W_SMG_MP7_T1_Magazine_LOD_HIGH
+    2300020: W_SMG_MP7_T1_SideRail_LOD_HIGH
+    3300000: W_ATT_MagpulBUIS_Front_Up_LOD_HIGH
+    3300002: W_ATT_MagpulBUIS_Rear_Up_LOD_HIGH
+    3300004: W_SMG_MP7_T1_Ammo_LOD_HIGH
+    3300006: W_SMG_MP7_T1_Bolt_LOD_HIGH
+    3300008: W_SMG_MP7_T1_BottomRail_LOD_HIGH
+    3300010: W_SMG_MP7_T1_ChargingHandle_LOD_HIGH
+    3300012: W_SMG_MP7_T1_Flashhider_LOD_HIGH
+    3300014: W_SMG_MP7_T1_Follower_LOD_HIGH
+    3300016: W_SMG_MP7_T1_LOD_HIGH
+    3300018: W_SMG_MP7_T1_Magazine_LOD_HIGH
+    3300020: W_SMG_MP7_T1_SideRail_LOD_HIGH
+    4300000: W_ATT_MagpulBUIS_Front_Up_LOD_HIGH
+    4300002: W_ATT_MagpulBUIS_Rear_Up_LOD_HIGH
+    4300004: W_SMG_MP7_T1_Ammo_LOD_HIGH
+    4300006: W_SMG_MP7_T1_Bolt_LOD_HIGH
+    4300008: W_SMG_MP7_T1_BottomRail_LOD_HIGH
+    4300010: W_SMG_MP7_T1_ChargingHandle_LOD_HIGH
+    4300012: W_SMG_MP7_T1_Flashhider_LOD_HIGH
+    4300014: W_SMG_MP7_T1_Follower_LOD_HIGH
+    4300016: W_SMG_MP7_T1_LOD_HIGH
+    4300018: W_SMG_MP7_T1_Magazine_LOD_HIGH
+    4300020: W_SMG_MP7_T1_SideRail_LOD_HIGH
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
